@@ -1,0 +1,67 @@
+.libAbout{
+    text-align: center;
+    background-color: rgb(184, 230, 173);
+    color: rgb(174, 145, 231);
+    font-size: 35px;
+}
+.libPic{
+    border-style: groove;
+    border-width: 5px;
+    border-color: purple;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 450px;
+}
+.about{
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 18px;
+}
+body{
+    background-color: rgb(219, 240, 248);
+}
+.church,.channelLink,.join,.instaLink{
+    color: crimson;
+}
+#dtube,#podcast,#insta{
+    background-color: rgb(184, 230, 173);
+    color: rgb(174, 145, 231);
+    text-align:center;
+    font-size: 35px;
+}
+.video1{
+    display: block;
+    margin: auto;
+    width: 40%;
+    height: auto;
+    border-style: double;
+    border-width: 5px;
+    border-color: purple;
+}
+.dtp1,.podText,.instaTxt,.closingTxt{
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 18px;
+}
+.faith{
+    border-style: groove;
+    border-width: 3px;
+    border-color: purple;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 450px;
+}
+.instapic{
+    border-style: groove;
+    border-width: 5px;
+    border-color: purple;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 450px;
+}
